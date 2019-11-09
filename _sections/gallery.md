@@ -11,7 +11,7 @@ order: 3
 <div class="row">
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/fanMockup.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/FanMockup.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
         <header>
           <h3>It all began with an image</h3>
         </header>
