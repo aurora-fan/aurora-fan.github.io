@@ -13,22 +13,24 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: AuroraFan
-email: mpavkovic@umass.edu
+title: The AuroraFan
+subtitle: A new way to display
+email: aurorafancontact@gmail.com
+avatar: /assets/images/logo-small.png
 description: > # this means to ignore newlines until "baseurl:"
-  DingSpinner
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  "AuroraFan: An innovative display."
+url: "https://aurora-fan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  aurora-fan
 
 permalink: pretty
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-prologue
 plugins:
   - jekyll-feed
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections: [sections]
