@@ -27,7 +27,7 @@ order: 3
       <div class="item">
         <a href="#" class="image fit"><img src="{{ 'assets/images/fanBreakdown.png' | relative_url }}" alt="Magna Nullam" /></a>
         <header>
-          <h3>Breaking down our plan set-in-motion</h3>
+          <h3>Breaking down our plan</h3>
         </header>
       </div>
       <div class="item">
@@ -40,9 +40,9 @@ order: 3
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/animatedFan.gif' | relative_url }}" alt="Dolor Penatibus" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/animatedFan2.gif' | relative_url }}" alt="Dolor Penatibus" /></a>
         <header>
-          <h3>What we hope to achieve</h3>
+          <h3>An idea in motion</h3>
         </header>
       </div>
       <div class="item">
