@@ -175,7 +175,6 @@ GEM
       jekyll (~> 3.5)
       jekyll-github-metadata (~> 2.9)
       jekyll-seo-tag (~> 2.0)
-    jekyll-theme-prologue (0.3.3)
     jekyll-theme-slate (0.1.1)
       jekyll (~> 3.5)
       jekyll-seo-tag (~> 2.0)
@@ -247,11 +246,10 @@ DEPENDENCIES
   github-pages
   jekyll (>= 3.6.3)
   jekyll-feed (~> 0.6)
-  jekyll-theme-prologue
   tzinfo-data
 
 RUBY VERSION
-   ruby 2.6.5p114
+   ruby 2.6.3p62
 
 BUNDLED WITH
    1.17.2
