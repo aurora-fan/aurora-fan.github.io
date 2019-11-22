@@ -3,7 +3,7 @@ layout: page
 icon: fa-envelope
 title: Contact Us
 permalink: /contact/
-order: 4
+order: 5
 ---
 <p>Please fill out the form below if you'd like to contact us:</p>
 
