@@ -11,13 +11,13 @@ order: 3
 <div class="row">
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/fanMockup.png' | relative_url }}" alt="Ipsum Feugiat" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/FanMockup.png' | relative_url }}" alt="Fan mockup" /></a>
         <header>
           <h3>It all began with an image</h3>
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Rhoncus Semper" /></a>
+        <a href="#" class="image fit"><img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Logo" /></a>
         <header>
           <h3>Our first logo</h3>
         </header>
@@ -25,13 +25,13 @@ order: 3
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/fanBreakdown.png' | relative_url }}" alt="Magna Nullam" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/fanBreakdown.png' | relative_url }}" alt="Fan breakdown" /></a>
         <header>
-          <h3>Our plan set-in-motion</h3>
+          <h3>Breaking down our plan</h3>
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/theParts.png' | relative_url }}" alt="Natoque Vitae" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/theParts.png' | relative_url }}" alt="Parts" /></a>
         <header>
           <h3>We began work with only 
           a Hall Effect Sensor, a Slip Ring, a Motor, and a handful of neopixels </h3>
@@ -40,13 +40,13 @@ order: 3
     </div>
     <div class="4u 12u$(mobile)">
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/animatedFan.gif' | relative_url }}" alt="Dolor Penatibus" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/animatedFan2.gif' | relative_url }}" alt="Animated fan" /></a>
         <header>
-          <h3>What we hoped to achieve</h3>
+          <h3>An idea in motion</h3>
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="Orci Convallis" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="PLACEHOLDER" /></a>
         <header>
           <h3>Future Image 2.</h3>
         </header>

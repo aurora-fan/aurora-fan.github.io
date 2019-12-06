@@ -4,5 +4,5 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
 icon: fa-home
-title: Welcome!
+title: Welcome
 ---
