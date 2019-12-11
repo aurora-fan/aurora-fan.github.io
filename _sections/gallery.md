@@ -23,7 +23,7 @@ order: 3
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/Fan-F.jpg' | relative_url }}" alt="Fan-F" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/Fan-F.JPG' | relative_url }}" alt="Fan-F" /></a>
         <header>
           <h3>The letter 'F'</h3>
         </header>
@@ -44,7 +44,7 @@ order: 3
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/Fan-A.jpg' | relative_url }}" alt="Fan-A" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/Fan-A.JPG' | relative_url }}" alt="Fan-A" /></a>
         <header>
           <h3>The letter 'A'</h3>
         </header>
@@ -64,7 +64,7 @@ order: 3
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/Fan-N.jpg' | relative_url }}" alt="Fan-N?" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/Fan-N.JPG' | relative_url }}" alt="Fan-N?" /></a>
         <header>
           <h3>The letter... 'N'? <br/>(It's a work in progress!)</h3>
         </header>
