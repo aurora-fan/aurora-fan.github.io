@@ -9,7 +9,7 @@ order: 3
 Here you can see all the progress we've made, as well as what's to come! <br /> This page will be updated periodically, but if you want the most up-to-date version, please check out [our Trello](https://trello.com/b/xxT0K6fK/aurora-fan-to-do "Our Trello"). 
 
 ### Here's what we've done so far: <br />
-Our [blog](/blog/ "Our Blog") is also a good source of this information!
+Our [blog](/blog/ "Our Blog") is more in-depth source of this information!
 * Post to the website each week
     * We've done a post on every Friday since the 7th of November.
     * Each post has a comprehensive breakdown of all our progress that week.
@@ -83,7 +83,7 @@ Although documented throughout this page, as well as our blogs, here are some of
   <br />We've had to move towards tracking RPM in real-time, from our original plan of rotating at a constant RPM. This is gone into more detail above and in our blog posts, but the change is mostly due to hardware limitations for both the motor, and the slip ring. 
 1. _Solid 30 FPS down to a consistent 5 FPS_
   <br />Originally we had big plans for the display in terms of moving images (likely gifs) and high framerates, however due to a combination of the method of data transfer, the processing power of our Arduino, the communication frequency of the neopixels, the rating of the slip ring (as well as quality) and the max RPM of the motor, we are unable to meet a solid 30 FPS, and have instead decided to focus more on what we can do with what we have.
-1. _Hall-Effect to IR transmitter/receiver_
+1. _Hall-Effect to IR Transmitter/Receiver_
   <br />We've gone to-and-from a couple of different sensors for keeping track of RPM, and although Hall-Effect has been the most stable, we still have a long way to go in order to produce a still image on the blades. Currently we're looking at using either a LDR or IR receivers/transmitters, with a priority on the latter. We hope this will help us finalize the RPM calculations so we can make a stable image! 
 
 It's quite interesting to reflect back on our [original presentation](https://docs.google.com/presentation/d/17ro3u3oZ8lFYC3w88OtpE69kU2mOrf_581_JR-Ly-18/edit?usp=sharing "NeoPixel Display") to see some of the changes we've had to make...

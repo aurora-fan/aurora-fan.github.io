@@ -23,9 +23,9 @@ order: 3
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="TEMP 2" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/Fan-F.jpg' | relative_url }}" alt="Fan-F" /></a>
         <header>
-          <h3>TEMP 2</h3>
+          <h3>The letter 'F'</h3>
         </header>
       </div>
     </div>
@@ -44,9 +44,9 @@ order: 3
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="TEMP 3" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/Fan-A.jpg' | relative_url }}" alt="Fan-A" /></a>
         <header>
-          <h3>TEMP 3</h3>
+          <h3>The letter 'A'</h3>
         </header>
       </div>
     </div>
@@ -58,15 +58,15 @@ order: 3
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="PLACEHOLDER" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/Fan-Front.png' | relative_url }}" alt="Fan Front" /></a>
         <header>
-          <h3>Future Image 2.</h3>
+          <h3>The front of the AuroraFan.</h3>
         </header>
       </div>
       <div class="item">
-        <a href="#" class="image fit"><img src="{{ 'assets/images/pic07.jpg' | relative_url }}" alt="TEMP 4" /></a>
+        <a href="#" class="image fit"><img src="{{ 'assets/images/Fan-N.jpg' | relative_url }}" alt="Fan-N?" /></a>
         <header>
-          <h3>TEMP 4</h3>
+          <h3>The letter... 'N'? <br/>(It's a work in progress!)</h3>
         </header>
       </div>
     </div>
