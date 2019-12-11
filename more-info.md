@@ -3,7 +3,7 @@ layout: page
 title: More Information
 icon: fa-info
 permalink: /more-info/
-order: 4
+order: 5
 --- 
 
 #### Here at AuroraFan, our goal is to design a new form of display, one different from the typical you see today. <br/> <br/>

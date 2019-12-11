@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Components List
-icon: fa-clipboard-list
+icon: fa-shopping-basket
 permalink: /components-list/
-order: 3
+order: 4
 ---
 
 Along the way we've needed several parts:

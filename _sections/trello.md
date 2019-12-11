@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Our Trello
+title: Organized With Trello
 icon: fa-edit
 permalink: /organize/
-order: 4
+order: 5
 ---
 #### We organize our ideas and progress using Trello!
 #### If you're interested, you can find a link to our Trello below:
