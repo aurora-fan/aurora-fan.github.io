@@ -8,9 +8,6 @@ order: 3
 
 Here you can see all the progress we've made, as well as what's to come! <br /> This page will be updated periodically, but if you want the most up-to-date version, please check out [our Trello](https://trello.com/b/xxT0K6fK/aurora-fan-to-do "Our Trello"). 
 
-#### **Please Note**: 
-This page is only up-to-date as of December 11th! If you'd like to see our current progress, [click here](/blog/)!
-
 ### Here's what we've done so far: <br />
 Our [blog](/blog/ "Our Blog") is more in-depth source of this information!
 * Post to the website each week
@@ -35,28 +32,21 @@ Our [blog](/blog/ "Our Blog") is more in-depth source of this information!
 * Wrote foundational code
     * We wrote code for the basic functionality of the display.
     * RPM modulation has been integrated.
-
-### Here's what we're still working on: <br />
-* Hard-Coding letters (~4 hours)
+* Hard-Coding letters
   * We've decided to hard-code the letters, in order to make more creative demos.
-* Fitting LDR or IR Receiver/Transmitter (~6 hours)
-  * We're moving towards a new medium for tracking RPM, one that will hopefully be more accurate.
-  * We hope to have a transmitter on the opposite side of the blades, and a receiver at the base for tracking RPM.
-* Fan Simulator (~12 hours)
-  * We're hoping to make a small program that will be able to show what the fan display should show, given an image or selection of specific pixels.
-* Weather Display (~6 hours)
-  * A weather demo that pulls from a weather database to show the current weather (as well as a small graphic).
-* Picture-to-Display (~12 hours)
-  * We're planning on writing a compression algorithm to translate small-scale images onto the display.
-  * We hope to have this interface with the fan simulator, which should show what the image will look like on the fan itself.
-* Music Visualizer (~5 hours)
+* Weather Display
+  * A weather demo that pulls from a weather database to show the current weather, temperature (as well as a small graphic).
+* Music Visualizer
   * We want to make a demo of a music visualizer, one that shows a small animation involving the amplitude, overall loudness, and frequency of a song playing.
-* Start-Up Animation (~4 hours)
-  * A small start-up animation we hope to make, just to add that final layer of polish to our project.
-  * Perhaps something that displays our name, or simply a small animation would be nice.
-* Final Calibrations (~12 hours)
-  * Our final calibrations to ensure our project is in the best possible state for oue presentation. 
-  * Would involve ensuring our RPM calculation works correctly, and our demos function to the degree we're looking for.
+* Clock & Stopwatch
+  * We created both an analog and digital clock.
+  * We created a stopwatch that can be played/paused, reset, and displayed as an analog or digital stopwatch.
+* Text Visualizer
+  * A small program that allows you to set the color of, and display any text.
+  * The text marquees around the display.
+* MacOS Companion App
+  * We created a MacOS app that interfaces with the AuroraFan so that we can show off all our cool demos!
+  * Integrates iTunes music for the Music Visualizer!
 
 ### Roadblocks
 Although there is so much done, there's still much to do, and we've faced our fair share of roadblocks:
