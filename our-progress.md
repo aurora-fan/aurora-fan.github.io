@@ -8,6 +8,9 @@ order: 3
 
 Here you can see all the progress we've made, as well as what's to come! <br /> This page will be updated periodically, but if you want the most up-to-date version, please check out [our Trello](https://trello.com/b/xxT0K6fK/aurora-fan-to-do "Our Trello"). 
 
+#### **Please Note**: 
+This page is only up-to-date as of December 11th! If you'd like to see our current progress, [click here](/blog/)!
+
 ### Here's what we've done so far: <br />
 Our [blog](/blog/ "Our Blog") is more in-depth source of this information!
 * Post to the website each week
